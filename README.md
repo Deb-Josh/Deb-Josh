@@ -1,6 +1,6 @@
 - 👋 Salut je suis étudiant et je me nomme Deboua joseph alias Deb~Josh 😁
-- 👀 Je suis intéressé par tout ce qui est informatique : développement web et mobile , sécurité informatique, graphisme...
-- 🌱 j'évolue dans de nombreux langages de programmation et j'apprends actuellement la POO en python et le java 
+- 👀 Je suis intéressé par tout ce qui est informatique et voici les domaines dans lesquels j'évolue : le développement web et mobile , sécurité informatique, les réseaux informatiques et le graphisme
+- 🌱 j'évolue dans de nombreux langages de programmation et je me spécialise actuellement dans les modules python de l'IA
 - 💞️ J'ai des compétences pratiques que j'aimerais faire progresser à travers des collaborations avec la communauté 
 - 📫 De part ma volonté et mon engagement ; je compte bien dépasser mes limites à chaque apprentissage
 
