@@ -1,8 +1,11 @@
-- 👋 Salut je suis étudiant et je m'appelle Deboua joseph alias Deb~Josh 😁
-- 👀 Je suis intéressé par tout ce qui est informatique et voici les domaines dans lesquels j'évolue : le développement web et mobile , sécurité informatique, les réseaux informatiques et le graphisme
-- 🌱 j'évolue dans de nombreux langages de programmation et je me spécialise actuellement dans les modules python de l'IA
-- 💞️ J'ai des compétences pratiques que j'aimerais faire progresser à travers des collaborations avec la communauté 
+- 👋 Salut le monde! Etudiant? Oui. Et je me défini principalement comme étant "Algorithmicien" et "Logicien" car passionné par les concepts qui en ressortent. Bref, je m'appelle Deboua Joseph as Deb~Josh
+- 👀 Je suis intéressé par tout ce qui est informatique et voici les domaines dans lesquels j'évolue : le développement web et mobile, l'IA, la sécurité informatique, les réseaux informatiques et le graphisme.
+- Cependant, je suis principalemnt axé sur l'IA(Machine Learning, Deep Learning) et la sécurité informatique
+- 🌱 Je suis fullstack; peu importe les technos ou langages de programmation (syntaxe et architecture) ... le plus important pour moi c'est la logique et la créativité
+- 💞️ J'ai des compétences aussi bien théoriques que pratiques que j'aimerais faire progresser à travers des collaborations avec la communauté.
 - 📫 De part ma volonté et mon engagement ; je compte bien dépasser mes limites à chaque level
+- "Sois la solution que tu veux voir dans le monde!"; tel est mon crédo auquel je ne cesse de croire depuis que j'ai commencé mon parcours informatique
+- Etant un énorme crack en programmation de tout genre ... je ne cesse de coder dans tout ce que j'entreprends peu importe le domaine car pour moi il n'y a pas de contraintes pendant le coding ; c'est moi le créateur et j'ai les pleins pouvoirs : "Coder c'est être libre" / "Code to be free"
 
 <!---
 Deb-Josh/Deb-Josh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
