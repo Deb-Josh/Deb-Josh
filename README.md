@@ -6,7 +6,7 @@
 - 💞️ J'ai des compétences aussi bien théoriques que pratiques que j'aimerais faire progresser à travers des collaborations avec la communauté.
 - 📫 De part ma volonté et mon engagement ; je compte bien dépasser mes limites à chaque level
 - "Sois la solution que tu veux voir dans le monde!"; tel est mon crédo auquel je ne cesse de croire depuis que j'ai commencé mon parcours informatique
-- Etant un énorme crack en programmation de tout genre ... je ne cesse de coder dans tout ce que j'entreprends peu importe le domaine car pour moi il n'y a pas de contraintes pendant le coding, c'est moi le créateur et j'ai les pleins pouvoirs; en effet ma vision de la prorammation est claire : "Coder c'est être libre" / "Code to be free"
+- Etant un énorme crack en programmation de tout genre ... je ne cesse de coder dans tout ce que j'entreprends peu importe le domaine car pour moi il n'y a pas de contraintes pendant le coding, c'est moi le créateur et j'ai les pleins pouvoirs; en effet ma vision de la programmation est claire : "Coder c'est être libre" / "Code to be free"
 
 <!---
 Deb-Josh/Deb-Josh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
